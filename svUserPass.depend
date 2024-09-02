@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1725313792 source:e:\unla\4to año\distribuidos\svuserpass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<time.h>
+
